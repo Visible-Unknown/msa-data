@@ -67,6 +67,23 @@
       "profile_pic_url": "https://i.ibb.co.com/Fk1yxvy5/1725195233853.jpg",
       "linkedin": "https://www.linkedin.com/in/alamin-sust-cse/",
       "facebook": "https://www.facebook.com/sm.alamin.hossain.rana"
+    },
+    {
+      "id": "al-005",
+      "name": "Al Amin Hossain",
+      "designation": "BCS (Admin) Cadre, Joint Secretary",
+      "organization": "Ministry of Public Administration, Govt. of Bangladesh",
+      "batch": "1st Batch (1993)",
+      "department": "Department of Physics",
+      "biography": "A pioneer of the Mymensingh Students' Association at SUST, Tariqul has dedicated his career to public service, playing a key role in national administrative reforms.",
+      "contact": {
+        "phone": "0123456789",
+        "email": "alamin@mail.com",
+        "address": "Dhaka, Bangladesh"
+      },
+      "profile_pic_url": "https://i.ibb.co.com/p68n45Gs/photo-2025-06-19-02-33-49.jpg",
+      "linkedin": "https://www.linkedin.com/in/alamin-sust-cse/",
+      "facebook": "https://www.facebook.com/sm.alamin.hossain.rana"
     }
   ]
 }
