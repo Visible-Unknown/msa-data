@@ -13,82 +13,43 @@
       },
       "profile_url": "/faculty/advisor1",
       "research_profile": "https://scholar.google.com/citations?user=bYDAhtoAAAAJ&hl=en",
-      "profile_pic_url": "https://i.ibb.co.com/PGxwpWDj/Mozammel.jpg"
+      "profile_pic_url": "https://i.ibb.co.com/PGxwpWDj/Mozammel.jpg",
+      "linkedin": "",
+      "facebook": ""
     },
     {
       "id": "ad-02",
-      "name": "Dr. Fatema Begum",
+      "name": "Dr. Md. Mozammel Hoque",
       "designation": "Professor",
-      "department": "Department of CSE",
-      "biography": "Dr. Fatema Begum has over 15 years of experience in artificial intelligence and machine learning. She has published numerous papers in international journals and conferences, and leads the AI research group at SUST.",
+      "department": "Institute of Information and Communication Technology",
+      "biography": "Dr. Md. Mozammel Hoque is a dedicated researcher and educator at the Institute of Information and Communication Technology, SUST. With expertise in information and communication technology, he has contributed significantly to research and academic development in the field.",
       "contact": {
-        "phone": "+880 1712345678",
-        "email": "fatema.begum@sust.edu",
-        "address": "Room #405, Academic Building-E, SUST, Sylhet-3114, Bangladesh"
+        "phone": "+8801915796886",
+        "email": "ahabib-ict@sust.edu",
+        "address": "Room #221, IICT, Shahjalal University of Science and Technology, Sylhet-3114, Bangladesh"
       },
-      "profile_url": "/faculty/fatema-begum",
-      "research_profile": "https://scholar.google.com/citations?user=bYDAhtoAAAAJ&hl=en",
-      "profile_pic_url": "/images/advisors/fatema-begum.jpg"
+      "profile_url": "https://i.ibb.co.com/XZs2RSD3/ahabib.jpg",
+      "research_profile": "",
+      "profile_pic_url": "",
+      "linkedin": "",
+      "facebook": ""
     },
     {
       "id": "ad-03",
-      "name": "Dr. Kamal Hossain",
+      "name": "Dr. Mohammad Kamruzzaman Khan Prince",
       "designation": "Associate Professor",
-      "department": "Department of CSE",
-      "biography": "Dr. Kamal Hossain specializes in computer networks and cybersecurity. He has worked on several national cybersecurity projects and coordinates the university's network security lab.",
+      "department": "Department of Electrical & Electronic Engineering",
+      "biography": "Dr. Mohammad Kamruzzaman Khan Prince completed the Doctor of Philosophy (PhD) in Engineering from Deakin University, Australia, in 2023. He also holds a Bachelor of Science (B.Sc.) degree in Electrical and Electronic Engineering, which he obtained from the Rajshahi University of Engineering and Technology (RUET), Bangladesh, in 2012. Dr. Prince has been working as an Associate Professor in the Department of Electrical and Electronic Engineering (EEE) at Shahjalal University of Science and Technology (SUST), Sylhet, Bangladesh, since December 2023. He is keenly interested in researching the design of power electronic converters and controllers, energy storage systems, stability analysis for integrating renewable energy sources into power systems, and electric vehicles (EV).",
       "contact": {
-        "phone": "+880 1718765432",
-        "email": "kamal.hossain@sust.edu",
-        "address": "Room #210, Academic Building-E, SUST, Sylhet-3114, Bangladesh"
+        "phone": "+8801986431521",
+        "email": "kamruzzaman-eee@sust.edu",
+        "address": "Department of Electrical & Electronic Engineering, Shahjalal University of Science and Technology, Sylhet-3114, Bangladesh"
       },
-      "profile_url": "/faculty/kamal-hossain",
-      "research_profile": "https://scholar.google.com/citations?user=bYDAhtoAAAAJ&hl=en",
-      "profile_pic_url": "/images/advisors/kamal-hossain.jpg"
-    },
-    {
-      "id": "ad-04",
-      "name": "Dr. Shahida Khanom",
-      "designation": "Assistant Professor",
-      "department": "Department of CSE",
-      "biography": "Dr. Shahida Khanom's research focuses on software engineering and human-computer interaction. She has received multiple teaching excellence awards and mentors undergraduate research projects.",
-      "contact": {
-        "phone": "+880 1723456789",
-        "email": "shahida.khanom@sust.edu",
-        "address": "Room #315, Academic Building-E, SUST, Sylhet-3114, Bangladesh"
-      },
-      "profile_url": "/faculty/shahida-khanom",
-      "research_profile": "https://scholar.google.com/citations?user=bYDAhtoAAAAJ&hl=en",
-      "profile_pic_url": "/images/advisors/shahida-khanom.jpg"
-    },
-    {
-      "id": "ad-05",
-      "name": "Dr. Rafiqul Islam",
-      "designation": "Professor",
-      "department": "Department of CSE",
-      "biography": "Dr. Rafiqul Islam is an expert in database systems and big data analytics. He has led several funded research projects and serves as the department's graduate program coordinator.",
-      "contact": {
-        "phone": "+880 1723451234",
-        "email": "rafiqul.islam@sust.edu",
-        "address": "Room #502, Academic Building-E, SUST, Sylhet-3114, Bangladesh"
-      },
-      "profile_url": "/faculty/rafiqul-islam",
-      "research_profile": "https://scholar.google.com/citations?user=bYDAhtoAAAAJ&hl=en",
-      "profile_pic_url": "/images/advisors/rafiqul-islam.jpg"
-    },
-    {
-      "id": "ad-06",
-      "name": "Dr. Nasrin Sultana",
-      "designation": "Assistant Professor",
-      "department": "Department of CSE",
-      "biography": "Dr. Nasrin Sultana's research interests include natural language processing and computational linguistics. She is actively involved in developing Bengali language processing tools and resources.",
-      "contact": {
-        "phone": "+880 1734567890",
-        "email": "nasrin.sultana@sust.edu",
-        "research_profile": "https://scholar.google.com/citations?user=bYDAhtoAAAAJ&hl=en",
-        "address": "Room #218, Academic Building-E, SUST, Sylhet-3114, Bangladesh"
-      },
-      "profile_url": "/faculty/nasrin-sultana",
-      "profile_pic_url": "/images/advisors/nasrin-sultana.jpg"
+      "profile_url": "https://i.ibb.co.com/pBfJqF62/6978ca60eaa81-AAA-Prince-sust.png",
+      "research_profile": "https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID",
+      "profile_pic_url": "",
+      "linkedin": "https://www.linkedin.com/in/kamruzzaman-khan-prince/",
+      "facebook": ""
     }
   ]
 }
