@@ -1,7 +1,26 @@
 {
   "ec_members": [
     {
+      "id": "ec-1401",
+      "committee": "14th",
+      "name": "Arafat Ahmed Sajib",
+      "designation": "President",
+      "session": "2019-20",
+      "department": "Department of Chemistry",
+      "biography": "Arafat Ahmed Sajib is a dedicated and active member of the Mymensingh Students' Association, SUST. As the President of the 15th Executive Committee, he has shown exemplary leadership and commitment to the association's mission and goals. He is currently in his 4th year studying Chemistry at SUST, where he continues to excel both academically and in his extracurricular activities.",
+      "contact": {
+        "phone": "+8809696967084",
+        "email": "alamin.sust.cse@outlook.com",
+        "address": "abc"
+      },
+      "blood_group": "",
+      "profile_pic_url": "",
+      "linkedin": "",
+      "facebook": "Facebook Profile"
+    },
+    {
       "id": "ec-1501",
+      "committee": "15th",
       "name": "Arafat Ahmed Sajib",
       "designation": "President",
       "session": "2019-20",
@@ -19,6 +38,7 @@
     },
     {
       "id": "ec-1502",
+      "committee": "15th",
       "name": "Al-Amin Hossain",
       "designation": "Information & Communication Secretary",
       "session": "2020-21",
@@ -36,6 +56,7 @@
     },
     {
       "id": "ec-1602",
+      "committee": "16th",
       "name": "Al-Amin Hossain",
       "designation": "Vice President",
       "session": "2020-21",
