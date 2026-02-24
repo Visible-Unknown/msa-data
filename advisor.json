@@ -1,0 +1,94 @@
+{
+  "advisors": [
+    {
+      "id": "ad-01",
+      "name": "Dr. Md. Mozammel Hoque",
+      "designation": "Professor",
+      "department": "Department of Food Engineering & Tea Technology",
+      "biography": "Dr. Md. Mozammel Hoque is a dedicated and active member of the Shahjalal University of Science and Technology. With a profound commitment to student excellence and research, they have guided numerous projects and initiatives within the department. Their expertise spans across multiple disciplines, fostering a culture of innovation and academic rigor.",
+      "contact": {
+        "phone": "+8801715492961",
+        "email": "hoque-fet@sust.edu",
+        "address": "Room #300, Academic Building-E, SUST, Sylhet-3114, Bangladesh"
+      },
+      "profile_url": "/faculty/advisor1",
+      "research_profile": "https://scholar.google.com/citations?user=bYDAhtoAAAAJ&hl=en",
+      "profile_pic_url": "https://i.ibb.co.com/PGxwpWDj/Mozammel.jpg"
+    },
+    {
+      "id": "ad-02",
+      "name": "Dr. Fatema Begum",
+      "designation": "Professor",
+      "department": "Department of CSE",
+      "biography": "Dr. Fatema Begum has over 15 years of experience in artificial intelligence and machine learning. She has published numerous papers in international journals and conferences, and leads the AI research group at SUST.",
+      "contact": {
+        "phone": "+880 1712345678",
+        "email": "fatema.begum@sust.edu",
+        "address": "Room #405, Academic Building-E, SUST, Sylhet-3114, Bangladesh"
+      },
+      "profile_url": "/faculty/fatema-begum",
+      "research_profile": "https://scholar.google.com/citations?user=bYDAhtoAAAAJ&hl=en",
+      "profile_pic_url": "/images/advisors/fatema-begum.jpg"
+    },
+    {
+      "id": "ad-03",
+      "name": "Dr. Kamal Hossain",
+      "designation": "Associate Professor",
+      "department": "Department of CSE",
+      "biography": "Dr. Kamal Hossain specializes in computer networks and cybersecurity. He has worked on several national cybersecurity projects and coordinates the university's network security lab.",
+      "contact": {
+        "phone": "+880 1718765432",
+        "email": "kamal.hossain@sust.edu",
+        "address": "Room #210, Academic Building-E, SUST, Sylhet-3114, Bangladesh"
+      },
+      "profile_url": "/faculty/kamal-hossain",
+      "research_profile": "https://scholar.google.com/citations?user=bYDAhtoAAAAJ&hl=en",
+      "profile_pic_url": "/images/advisors/kamal-hossain.jpg"
+    },
+    {
+      "id": "ad-04",
+      "name": "Dr. Shahida Khanom",
+      "designation": "Assistant Professor",
+      "department": "Department of CSE",
+      "biography": "Dr. Shahida Khanom's research focuses on software engineering and human-computer interaction. She has received multiple teaching excellence awards and mentors undergraduate research projects.",
+      "contact": {
+        "phone": "+880 1723456789",
+        "email": "shahida.khanom@sust.edu",
+        "address": "Room #315, Academic Building-E, SUST, Sylhet-3114, Bangladesh"
+      },
+      "profile_url": "/faculty/shahida-khanom",
+      "research_profile": "https://scholar.google.com/citations?user=bYDAhtoAAAAJ&hl=en",
+      "profile_pic_url": "/images/advisors/shahida-khanom.jpg"
+    },
+    {
+      "id": "ad-05",
+      "name": "Dr. Rafiqul Islam",
+      "designation": "Professor",
+      "department": "Department of CSE",
+      "biography": "Dr. Rafiqul Islam is an expert in database systems and big data analytics. He has led several funded research projects and serves as the department's graduate program coordinator.",
+      "contact": {
+        "phone": "+880 1723451234",
+        "email": "rafiqul.islam@sust.edu",
+        "address": "Room #502, Academic Building-E, SUST, Sylhet-3114, Bangladesh"
+      },
+      "profile_url": "/faculty/rafiqul-islam",
+      "research_profile": "https://scholar.google.com/citations?user=bYDAhtoAAAAJ&hl=en",
+      "profile_pic_url": "/images/advisors/rafiqul-islam.jpg"
+    },
+    {
+      "id": "ad-06",
+      "name": "Dr. Nasrin Sultana",
+      "designation": "Assistant Professor",
+      "department": "Department of CSE",
+      "biography": "Dr. Nasrin Sultana's research interests include natural language processing and computational linguistics. She is actively involved in developing Bengali language processing tools and resources.",
+      "contact": {
+        "phone": "+880 1734567890",
+        "email": "nasrin.sultana@sust.edu",
+        "research_profile": "https://scholar.google.com/citations?user=bYDAhtoAAAAJ&hl=en",
+        "address": "Room #218, Academic Building-E, SUST, Sylhet-3114, Bangladesh"
+      },
+      "profile_url": "/faculty/nasrin-sultana",
+      "profile_pic_url": "/images/advisors/nasrin-sultana.jpg"
+    }
+  ]
+}
