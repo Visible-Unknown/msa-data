@@ -1,0 +1,76 @@
+{
+  "alumni": [
+    {
+      "id": "al-001",
+      "name": "Tariqul Islam",
+      "designation": "BCS (Admin) Cadre, Joint Secretary",
+      "organization": "Ministry of Public Administration, Govt. of Bangladesh",
+      "batch": "1st Batch (1993)",
+      "department": "Department of Physics",
+      "biography": "A pioneer of the Mymensingh Students' Association at SUST, Tariqul has dedicated his career to public service, playing a key role in national administrative reforms.",
+      "contact": {
+        "phone": "0123456789",
+        "email": "alamin@mail.com",
+        "address": "Dhaka, Bangladesh"
+      },
+      "profile_url": "",
+      "profile_pic_url": "https://i.ibb.co.com/q3wJHq1y/1725195233853.jpg",
+      "linkedin": "https://www.linkedin.com/in/alamin-sust-cse/",
+      "facebook": "https://www.facebook.com/sm.alamin.hossain.rana"
+    },
+    {
+      "id": "al-002",
+      "name": "Dr. Farhana Yasmin",
+      "designation": "Senior Research Scientist",
+      "organization": "CSIRO",
+      "batch": "4th Batch (1996)",
+      "department": "Department of Chemistry",
+      "biography": "Leading groundbreaking research in sustainable materials. Dr. Yasmin frequently mentors current SUST students looking to pursue higher education abroad.",
+      "contact": {
+        "phone": "0123456789",
+        "email": "alamin@mail.com",
+        "address": "Melbourne, Australia"
+      },
+      "profile_url": "",
+      "profile_pic_url": "https://i.ibb.co.com/q3wJHq1y/1725195233853.jpg",
+      "linkedin": "https://www.linkedin.com/in/alamin-sust-cse/",
+      "facebook": "https://www.facebook.com/sm.alamin.hossain.rana"
+    },
+    {
+      "id": "al-003",
+      "name": "Mahmudur Rahman",
+      "designation": "Staff Software Engineer",
+      "organization": "Google",
+      "batch": "10th Batch (2002)",
+      "department": "Department of Computer Science & Engineering",
+      "biography": "An early contributor to several open-source programming initiatives in Bangladesh. Now working on core search infrastructure at Google headquarters.",
+      "contact": {
+        "phone": "0123456789",
+        "email": "alamin@mail.com",
+        "address": "Mountain View, CA"
+      },
+      "profile_url": "",
+      "profile_pic_url": "https://i.ibb.co.com/q3wJHq1y/1725195233853.jpg",
+      "linkedin": "https://www.linkedin.com/in/alamin-sust-cse/",
+      "facebook": "https://www.facebook.com/sm.alamin.hossain.rana"
+    },
+    {
+      "id": "al-004",
+      "name": "Prof. Dr. Syed Arif",
+      "designation": "Professor of Economics",
+      "organization": "University of Dhaka",
+      "batch": "8th Batch (2000)",
+      "department": "Department of Economics",
+      "biography": "A distinguished academic known for his publications on macroeconomic policies in developing nations. He remains strongly connected to the MSA alumni network.",
+      "contact": {
+        "phone": "0123456789",
+        "email": "alamin@mail.com",
+        "address": "Dhaka, Bangladesh"
+      },
+      "profile_url": "",
+      "profile_pic_url": "https://i.ibb.co.com/q3wJHq1y/1725195233853.jpg",
+      "linkedin": "https://www.linkedin.com/in/alamin-sust-cse/",
+      "facebook": "https://www.facebook.com/sm.alamin.hossain.rana"
+    }
+  ]
+}
