@@ -1,0 +1,28 @@
+{
+  "news": [
+    {
+      "id": "news-0001",
+      "title": "First News Title",
+      "subTitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "date": "2024-07-14",
+      "has_document": true,
+      "document_link": "https://pdfobject.com/pdf/sample-3pp.pdf"
+    },
+    {
+      "id": "news-0002",
+      "title": "Second News Title",
+      "subTitle": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "date": "2024-07-13",
+      "has_document": false,
+      "document_link": ""
+    },
+    {
+      "id": "news-0003",
+      "title": "Third News Title",
+      "subTitle": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "date": "2024-07-13",
+      "has_document": false,
+      "document_link": ""
+    }
+  ]
+}
