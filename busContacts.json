@@ -1,0 +1,82 @@
+{
+  "busContacts": [
+    {
+      "id": "bus-001",
+      "operator": "BRTC",
+      "mymensinghCounter": "01717-206122",
+      "sylhetCounter": null
+    },
+    {
+      "id": "bus-002",
+      "operator": "SHAMIM",
+      "mymensinghCounter": "01782-269846",
+      "sylhetCounter": "01716-655018"
+    },
+    {
+      "id": "bus-003",
+      "operator": "RMG",
+      "mymensinghCounter": "01712-664837",
+      "sylhetCounter": "01793-088621"
+    },
+    {
+      "id": "bus-004",
+      "operator": "UNITED",
+      "mymensinghCounter": "01716-491422",
+      "sylhetCounter": "01711-271434"
+    },
+    {
+      "id": "bus-005",
+      "operator": "JALALABAD",
+      "mymensinghCounter": "01752-491596",
+      "sylhetCounter": "01718-538037"
+    },
+    {
+      "id": "bus-006",
+      "operator": "SAGORIKA",
+      "mymensinghCounter": "01716-792539",
+      "sylhetCounter": "01711-331026"
+    },
+    {
+      "id": "bus-007",
+      "operator": "AIRLINE",
+      "mymensinghCounter": "01745-000220",
+      "sylhetCounter": "01730-593951"
+    },
+    {
+      "id": "bus-008",
+      "operator": "NASIRABAD",
+      "mymensinghCounter": "01756-921555",
+      "sylhetCounter": "01724-445562"
+    },
+    {
+      "id": "bus-009",
+      "operator": "SHAHJALAL",
+      "mymensinghCounter": "01711-029156",
+      "sylhetCounter": "01717-158623"
+    },
+    {
+      "id": "bus-010",
+      "operator": "UDHAR",
+      "mymensinghCounter": "01789-705314",
+      "sylhetCounter": "01744-367554"
+    },
+    {
+      "id": "bus-011",
+      "operator": "TAYEF",
+      "mymensinghCounter": "01757-127271",
+      "sylhetCounter": "01757-127010"
+    },
+    {
+      "id": "bus-012",
+      "operator": "BISHAL",
+      "mymensinghCounter": "01714-996738",
+      "sylhetCounter": "01732-240275"
+    },
+    {
+      "id": "bus-013",
+      "operator": "SHAH PORAN",
+      "mymensinghCounter": "01794-107019",
+      "sylhetCounter": "01789-425300"
+    }
+  ]
+}
