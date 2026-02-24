@@ -77,6 +77,12 @@
       "operator": "SHAH PORAN",
       "mymensinghCounter": "01794-107019",
       "sylhetCounter": "01789-425300"
+    },
+    {
+      "id": "bus-014",
+      "operator": "Bou er dowa poribohon",
+      "mymensinghCounter": "01712345678",
+      "sylhetCounter": "01712345678"
     }
   ]
 }
