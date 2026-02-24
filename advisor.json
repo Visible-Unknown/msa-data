@@ -19,7 +19,7 @@
     },
     {
       "id": "ad-02",
-      "name": "Dr. Md. Mozammel Hoque",
+      "name": "Dr. Ahsan Habib",
       "designation": "Professor",
       "department": "Institute of Information and Communication Technology",
       "biography": "Dr. Md. Mozammel Hoque is a dedicated researcher and educator at the Institute of Information and Communication Technology, SUST. With expertise in information and communication technology, he has contributed significantly to research and academic development in the field.",
@@ -45,11 +45,28 @@
         "email": "kamruzzaman-eee@sust.edu",
         "address": "Department of Electrical & Electronic Engineering, Shahjalal University of Science and Technology, Sylhet-3114, Bangladesh"
       },
-      "profile_url": "https://i.ibb.co.com/pBfJqF62/6978ca60eaa81-AAA-Prince-sust.png",
+      "profile_url": "https://i.ibb.co.com/8pghYyP/Prince-sust.jpg",
       "research_profile": "https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID",
       "profile_pic_url": "",
       "linkedin": "https://www.linkedin.com/in/kamruzzaman-khan-prince/",
       "facebook": ""
-    }
+    },
+    {
+  "id": "ad-04",
+  "name": "Dr. Md. Ahsanul Islam",
+  "designation": "Associate Professor",
+  "department": "Department of Oceanography",
+  "biography": "Dr. Md. Ahsanul Islam is working as an Associate Professor at Department of Oceanography, Shahjalal University of Science and Technology, Sylhet. He has finished his Doctor of Philosophy (PhD) degree from the University Malaysia Terengganu (UMT), Malaysia in the field of Coastal Ecology. He also received his MS degree in Marine Science (Oceanography Branch) from the Institute of Marine Sciences and Fisheries, University of Chittagong, followed by B. Sc. (Hons.) degree in Marine Science from the same institute. His teaching and research areas are Marine ecology, Fish biology, Climate change and Fisheries management. Dr. Islam authored over 14 publications, including peer-reviewed journal articles, monographs, book chapters and refereed conference/seminar articles.",
+  "contact": {
+    "phone": "+8801920653592",
+    "email": "ahsanislam-ocg@sust.edu",
+    "address": "Department of Oceanography, Shahjalal University of Science and Technology, Sylhet-3114, Bangladesh"
+  },
+  "profile_url": "https://i.ibb.co.com/Y7h10pV4/ahsan-ocg.jpg",
+  "research_profile": "",
+  "profile_pic_url": "",
+  "linkedin": "",
+  "facebook": "https://www.facebook.com/ahsan.islam.779"
+}
   ]
 }
