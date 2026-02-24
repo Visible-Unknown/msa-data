@@ -8,7 +8,7 @@
       "description": "Welcoming the new batch of students from Mymensingh with cultural performances and introductions.",
       "location": "Central Auditorium, SUST",
       "has_photo": true,
-      "photo_url": "https://images.unsplash.com/photo-1523580494863-6f3031224c94?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+      "photo_url": "https://placehold.co/600x400/1e40af/white?text=Freshers+Reception"
     },
     {
       "id": "evt-0002",
@@ -18,7 +18,7 @@
       "description": "Inter-batch cricket tournament to foster sportsmanship and brotherhood.",
       "location": "Central Playground",
       "has_photo": true,
-      "photo_url": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?ixlib=rb-4.0.3&auto=format&fit=crop&w=2069&q=80"
+      "photo_url": "https://placehold.co/600x400/16a34a/white?text=Cricket+Tournament"
     },
     {
       "id": "evt-0003",
@@ -28,7 +28,7 @@
       "description": "Annual gathering for Iftar during the holy month of Ramadan.",
       "location": "Mymensingh House",
       "has_photo": true,
-      "photo_url": "https://images.unsplash.com/photo-1589301760013-9474717922c9?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+      "photo_url": "https://placehold.co/600x400/854d0e/white?text=Iftar+Mahfil"
     },
     {
       "id": "evt-0004",
@@ -38,7 +38,7 @@
       "description": "Distributing warm clothes to the underprivileged in rural areas.",
       "location": "Sylhet & Mymensingh",
       "has_photo": true,
-      "photo_url": "https://images.unsplash.com/photo-1607083206863-6c0c293c6b13?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+      "photo_url": "https://placehold.co/600x400/2563eb/white?text=Winter+Cloth"
     },
     {
       "id": "evt-0005",
@@ -48,7 +48,7 @@
       "description": "Voluntary blood donation program organized by MSA to help local hospitals maintain emergency blood supply.",
       "location": "Medical Center, SUST",
       "has_photo": true,
-      "photo_url": "https://images.unsplash.com/photo-1612271064137-418f2b6b8b1a?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+      "photo_url": "https://placehold.co/600x400/b91c1c/white?text=Blood+Donation"
     }
   ]
 }
