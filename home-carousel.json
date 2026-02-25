@@ -1,0 +1,46 @@
+{
+  "slides": [
+    {
+      "id": "sd-01",
+      "title": "Annual Gathering 2023",
+      "desc": "Celebrating achievements and welcoming new faces.",
+      "image": "/images/carousel/1.jpg"
+    },
+    {
+      "id": "sd-02",
+      "title": "Cultural Festival",
+      "desc": "Showcasing our rich heritage and traditions.",
+      "image": "/images/carousel/2.jpg"
+    },
+    {
+      "id": "sd-03",
+      "title": "Community Outreach",
+      "desc": "Giving back to the society.",
+      "image": "/images/carousel/3.jpg"
+    },
+    {
+      "id": "sd-04",
+      "title": "Sports Tournament",
+      "desc": "Fostering teamwork and sportsmanship.",
+      "image": "/images/gallery/1.jpg"
+    },
+    {
+      "id": "sd-05",
+      "title": "Academic Excellence",
+      "desc": "Recognizing top performers of the year.",
+      "image": "/images/gallery/2.jpg"
+    },
+    {
+      "id": "sd-06",
+      "title": "Alumni Meetup",
+      "desc": "Reconnecting with our past leaders.",
+      "image": "/images/gallery/3.jpg"
+    },
+    {
+      "id": "sd-07",
+      "title": "Winter Cloth Distribution",
+      "desc": "Helping the underprivileged during harsh winters.",
+      "image": "/images/gallery/4.jpg"
+    }
+  ]
+}
