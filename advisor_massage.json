@@ -9,16 +9,23 @@
     },
     {
       "id": "admsg-02",
-      "profile_photo": "https://i.ibb.co.com/XZs2RSD3/ahabib.jpg",
+      "profile_photo": "https://i.ibb.co.com/8pghYyP/Prince-sust.jpg/images/profiles/advisor2.jpg",
       "message": "It brings me great joy to see students from Mymensingh excel in SUST. Maintain your integrity, focus on your goals, and always remember your roots as you soar high.",
       "name": "Dr. Mohammad Kamruzzaman Khan Prince",
       "designation": "Advisor"
     },
     {
       "id": "admsg-03",
-      "profile_photo": "https://i.ibb.co.com/8pghYyP/Prince-sust.jpg/images/profiles/advisor2.jpg",
+      "profile_photo": "https://i.ibb.co.com/XZs2RSD3/ahabib.jpg",
       "message": "It brings me great joy to see students from Mymensingh excel in SUST. Maintain your integrity, focus on your goals, and always remember your roots as you soar high.",
       "name": "Dr. Ahsan Habib",
+      "designation": "Senior Advisor"
+    },
+    {
+      "id": "admsg-04",
+      "profile_photo": "https://i.ibb.co.com/Y7h10pV4/ahsan-ocg.jpg",
+      "message": "It brings me great joy to see students from Mymensingh excel in SUST. Maintain your integrity, focus on your goals, and always remember your roots as you soar high.",
+      "name": "Dr. Md. Ahsanul Islam",
       "designation": "Senior Advisor"
     }
   ]
