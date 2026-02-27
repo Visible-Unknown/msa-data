@@ -2,14 +2,21 @@
   "advisor_messages": [
     {
       "id": "admsg-01",
-      "profile_photo": "/images/profiles/advisor1.jpg",
+      "profile_photo": "https://i.ibb.co.com/PGxwpWDj/Mozammel.jpg",
       "message": "The association thrives on the dedication of its members. I urge every student to utilize this platform not just for networking, but to truly support one another in your academic and professional journeys.",
       "name": "Dr. Md. Mozammel Hoque",
       "designation": "Chief Advisor"
     },
     {
       "id": "admsg-02",
-      "profile_photo": "/images/profiles/advisor2.jpg",
+      "profile_photo": "https://i.ibb.co.com/XZs2RSD3/ahabib.jpg",
+      "message": "It brings me great joy to see students from Mymensingh excel in SUST. Maintain your integrity, focus on your goals, and always remember your roots as you soar high.",
+      "name": "Dr. Mohammad Kamruzzaman Khan Prince",
+      "designation": "Advisor"
+    },
+    {
+      "id": "admsg-03",
+      "profile_photo": "https://i.ibb.co.com/8pghYyP/Prince-sust.jpg/images/profiles/advisor2.jpg",
       "message": "It brings me great joy to see students from Mymensingh excel in SUST. Maintain your integrity, focus on your goals, and always remember your roots as you soar high.",
       "name": "Dr. Ahsan Habib",
       "designation": "Senior Advisor"
