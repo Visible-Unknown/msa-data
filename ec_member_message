@@ -1,0 +1,18 @@
+{
+  "advisor_messages": [
+    {
+      "id": "ecmsg-01",
+      "profile_photo": "/images/profiles/ec-president.jpg"",
+      "message": "Our primary goal this year is to bridge the gap between alumni and current students. We are working tirelessly to ensure that every member feels supported and has access to the resources they need to succeed both academically and culturally.",
+      "name": "Arafat Ahmed Sajib",
+      "designation": "President"
+    },
+    {
+      "id": "ecmsg-02",
+      "profile_photo": "",
+      "message": "TWe are streamlining our internal operations to make all events more inclusive. From workshops to cultural fests, we want maximum participation and engagement from every student representing Mymensingh.",
+      "name": "Sabbir Rahman",
+      "designation": "General Secretary"
+    }
+  ]
+}
