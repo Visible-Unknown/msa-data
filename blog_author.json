@@ -1,0 +1,108 @@
+{
+  "authors": [
+    {
+      "id": "author-001",
+      "name": "MSA Tech Team",
+      "avatar": "/images/authors/tech-team.jpg",
+      "role": "Contributor @ MSA SUST",
+      "bio": "A dedicated member of the MSA SUST community, passionate about sharing insights that empower students and celebrate our regional heritage. MSA Tech Team contributes regularly to our digital journal.",
+      "social": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": ""
+      },
+      "featured": true
+    },
+    {
+      "id": "author-002",
+      "name": "Alumni Relations",
+      "avatar": "/images/authors/alumni-relations.jpg",
+      "role": "Contributor @ MSA SUST",
+      "bio": "A dedicated member of the MSA SUST community, passionate about sharing insights that empower students and celebrate our regional heritage. Alumni Relations contributes regularly to our digital journal.",
+      "social": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": ""
+      },
+      "featured": true
+    },
+    {
+      "id": "author-003",
+      "name": "Cultural Wing",
+      "avatar": "/images/authors/cultural-wing.jpg",
+      "role": "Contributor @ MSA SUST",
+      "bio": "A dedicated member of the MSA SUST community, passionate about sharing insights that empower students and celebrate our regional heritage. Cultural Wing contributes regularly to our digital journal.",
+      "social": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": ""
+      },
+      "featured": true
+    },
+    {
+      "id": "author-004",
+      "name": "Academic Advisors",
+      "avatar": "/images/authors/academic-advisors.jpg",
+      "role": "Contributor @ MSA SUST",
+      "bio": "A dedicated member of the MSA SUST community, passionate about sharing insights that empower students and celebrate our regional heritage. Academic Advisors contributes regularly to our digital journal.",
+      "social": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": ""
+      },
+      "featured": true
+    },
+    {
+      "id": "author-005",
+      "name": "Eco Club",
+      "avatar": "/images/authors/eco-club.jpg",
+      "role": "Contributor @ MSA SUST",
+      "bio": "A dedicated member of the MSA SUST community, passionate about sharing insights that empower students and celebrate our regional heritage. Eco Club contributes regularly to our digital journal.",
+      "social": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": ""
+      },
+      "featured": true
+    },
+    {
+      "id": "author-006",
+      "name": "Career Services",
+      "avatar": "/images/authors/career-services.jpg",
+      "role": "Contributor @ MSA SUST",
+      "bio": "A dedicated member of the MSA SUST community, passionate about sharing insights that empower students and celebrate our regional heritage. Career Services contributes regularly to our digital journal.",
+      "social": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": ""
+      },
+      "featured": true
+    },
+    {
+      "id": "author-007",
+      "name": "Heritage Club",
+      "avatar": "/images/authors/heritage-club.jpg",
+      "role": "Contributor @ MSA SUST",
+      "bio": "A dedicated member of the MSA SUST community, passionate about sharing insights that empower students and celebrate our regional heritage. Heritage Club contributes regularly to our digital journal.",
+      "social": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": ""
+      },
+      "featured": true
+    },
+    {
+      "id": "author-008",
+      "name": "Wellness Wing",
+      "avatar": "/images/authors/wellness-wing.jpg",
+      "role": "Contributor @ MSA SUST",
+      "bio": "A dedicated member of the MSA SUST community, passionate about sharing insights that empower students and celebrate our regional heritage. Wellness Wing contributes regularly to our digital journal.",
+      "social": {
+        "facebook": "",
+        "instagram": "",
+        "linkedin": ""
+      },
+      "featured": true
+    }
+  ]
+}
