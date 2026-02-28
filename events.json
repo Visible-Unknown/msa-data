@@ -48,7 +48,7 @@
       "description": "Voluntary blood donation program organized by MSA to help local hospitals maintain emergency blood supply.",
       "location": "Medical Center, SUST",
       "has_photo": true,
-      "photo_url": "https://images.pexels.com/photos/7659561/pexels-photo-7659561.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      "photo_url": "https://github.com/Visible-Unknown/msa-data/blob/main/images/gallery/iftar-2026.jpg"
     },
     {
     "id": "evt-0006",
@@ -58,7 +58,7 @@
     "description": "Assalamu Alaikum,\n\nWarm greetings to everyone on the holy month of Ramadan.\n\nTo share the significance and spirit of this blessed month, Mymensingh Students' Association, SUST is going to organize an Iftar Mahfil.\nAll members of Mymensingh Students' Association — seniors and juniors — are cordially invited to attend the Iftar Mahfil and make the event meaningful and beautiful with your presence.\n\nThank you.",
     "location": "E Building, 3rd Floor",
     "has_photo": true,
-    "photo_url": "/images/gallery/iftar-2026.jpg"
+    "photo_url": "https://github.com/Visible-Unknown/msa-data/blob/main/images/gallery/iftar-2026.jpg"
   }
   ]
 }
