@@ -1,0 +1,60 @@
+{
+  "gallery": [
+    {
+      "id": 1,
+      "url": "/images/gallery/1.jpg",
+      "eventName": "Annual Freshers' Reception 2024",
+      "spotName": "Central Auditorium, SUST",
+      "date": "March 15, 2024"
+    },
+    {
+      "id": 2,
+      "url": "/images/gallery/2.jpg",
+      "eventName": "MSA Cricket Tournament Final",
+      "spotName": "Central Playground, SUST",
+      "date": "February 10, 2024"
+    },
+    {
+      "id": 3,
+      "url": "/images/gallery/3.jpg",
+      "eventName": "Iftar Mahfil 2024",
+      "spotName": "Mymensingh House, Sylhet",
+      "date": "April 05, 2024"
+    },
+    {
+      "id": 4,
+      "url": "/images/gallery/4.jpg",
+      "eventName": "Career Seminar: Path to Success",
+      "spotName": "Gallery 1, IICT Building",
+      "date": "November 22, 2023"
+    },
+    {
+      "id": 5,
+      "url": "/images/gallery/5.jpg",
+      "eventName": "Winter Clothes Distribution",
+      "spotName": "Sylhet Railway Station",
+      "date": "January 20, 2024"
+    },
+    {
+      "id": 6,
+      "url": "/images/gallery/6.jpg",
+      "eventName": "Alumni Meetup 2023",
+      "spotName": "Grand Surma Hotel",
+      "date": "December 15, 2023"
+    },
+    {
+      "id": 7,
+      "url": "/images/gallery/1.jpg",
+      "eventName": "Cultural Fest 'Bashonty'",
+      "spotName": "Muktamoncho, SUST",
+      "date": "February 28, 2024"
+    },
+    {
+      "id": 8,
+      "url": "/images/gallery/2.jpg",
+      "eventName": "Executive Committee Election",
+      "spotName": "Academic Building A",
+      "date": "May 10, 2023"
+    }
+  ]
+}
