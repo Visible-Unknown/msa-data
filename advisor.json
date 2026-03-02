@@ -85,22 +85,22 @@
   "linkedin": "",
   "facebook": ""
 },
-    {
+   {
   "id": "ad-06",
   "name": "Jahid Hasan Shourove",
   "designation": "Assistant Professor",
-  "department": "Food Engineering & Tea Technology",
-  "biography": "Jahid Hasan Shourove was born in the district of Mymensingh, Bangladesh. He accomplished his BSc Engineering degree in Food Engineering and tea Technology from Shahjalal University of Science and Technology, Sylhet in the year of 2017 with distinction. He secured 1'st position in FET department as well as the School of Applied Science and Technology in that year. He also obtained his MSc Engineering degree from the same institution. In September 2021, he joined the Department of Food Engineering & Tea Technology at Shahjalal University of Science & Technology (SUST) as a lecturer.",
+  "department": "Department of Food Engineering & Tea Technology",
+  "biography": "Jahid Hasan Shourove was born in the district of Mymensingh, Bangladesh. He accomplished his BSc Engineering degree in Food Engineering and Tea Technology from Shahjalal University of Science and Technology, Sylhet in the year of 2017 with distinction. He secured 1st position in FET department as well as the School of Applied Science and Technology in that year. He also obtained his MSc Engineering degree from the same institution. In September 2021, he joined the Department of Food Engineering & Tea Technology at Shahjalal University of Science & Technology (SUST) as a lecturer.",
   "contact": {
     "phone": "+8801521461528",
     "email": "shourove-fet@sust.edu",
-    "address": "Department of Statistics, Shahjalal University of Science and Technology, Sylhet-3114, Bangladesh"
+    "address": "Department of Food Engineering & Tea Technology, Shahjalal University of Science and Technology, Sylhet-3114, Bangladesh"
   },
   "profile_url": "",
   "research_profile": "https://scholar.google.com/citations?user=b8Bk4vQAAAAJ&hl=en",
   "profile_pic_url": "https://www.sust.edu/public/uploads/faculty/68082a26723dbUntitled%20design%20(12).png",
   "linkedin": "",
   "facebook": "https://www.facebook.com/jahidhasan.shourove"
-}   
+}
   ]
 }
